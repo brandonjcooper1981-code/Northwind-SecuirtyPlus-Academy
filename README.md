@@ -88,20 +88,13 @@ Every chapter, PBQ, and practice rotation contributes to building real-world cyb
 ## Repository Structure
 
 Northwind-SecurityPlus-Academy
-│
-├── 01-Quick-Reference
-│
-├── 02-Study-Handbook
-│
-├── 03-PBQ-Library
-│
-├── 04-Practice-Exams
-│
-├── 05-Mission-Tracker
-│
-├── 06-Exam-Day
-│
-└── 07-After-SecurityPlus
+- 01-Quick-Reference
+- 02-Study-Handbook
+- 03-PBQ-Library
+- 04-Practice-Exams
+- 05-Mission-Tracker
+- 06-Exam-Day
+- 07-After-SecurityPlus
 
 ---
 
